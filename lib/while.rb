@@ -1,4 +1,5 @@
-def using_while = "Wingardium Leviosa"
+def using_while
+  using_while = "Wingardium Leviosa"
   levitation_force = 6
   while levitation_force < 10
   puts "using_while"
